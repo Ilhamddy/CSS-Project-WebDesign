@@ -43,6 +43,9 @@ footer {
 
 
 @media (max-width:680px) {
+  body{
+  background-color: blue;  
+}
   .logo{
     width: 100px;
   }
